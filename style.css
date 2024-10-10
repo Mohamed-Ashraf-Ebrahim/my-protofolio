@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+    color: rgb(34, 31, 31);
+}
+img{
+    border-radius: 140px;  
+    width: 30%;
+  size: 100%;
+height:80%;
+right: 50%;
+top: 70%;
+}
+pre{
+    color: aliceblue;
+}
+#mmm{
+    padding:7% 4% 5% 7% ;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    height: 280px;
+    background-color: rgba(45, 32, 59, 0.3);
+    backdrop-filter: blur(10px);
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 27%;
+    padding: auto;
+    border-radius: 50px;
+    width: 50%;
+      box-shadow: 10px 20px 30px  rgb(43, 186, 222);
+}
+#mmm #o{
+   
+    width: 90%;
+   
+}
+#mmm #oo{
+   
+    width: 90%;
+ 
+}
+#mmm #ooo{
+   
+    width: 90%;
+   
+
+}
+.fa-facebook{
+    font-size:40px;
+    color: aqua;
+    height: 4%;
+    width: 30%;
+    box-shadow: 10px 20px 30px  rgb(43, 186, 222);
+}
+
+.fa-square-instagram{
+    font-size: 40px;
+    color: aqua;
+    height: 4%;
+    width: 30%; 
+    box-shadow: 10px 10px 20px  rgb(43, 186, 222);
+}
+.fa-x{
+    font-size: 40px;
+    color: aqua;
+    height: 4%;
+    width: 30%; 
+    box-shadow: 10px 10px 20px  rgb(43, 186, 222);
+}
+.hide{
+    display: none;
+}
+#x{
+    color:  rgb(43, 186, 222);
+}
+a{
+    color: rgb(43, 186, 222);;
+}
+#nav{
+    width: 96%;
+  position: sticky;
+   align-items: center;
+   justify-content: space-between;
+   padding-top: 2px;
+   padding-left: 1%;
+   padding-right: 0px;
+   margin-right:1%;
+   padding-bottom: 3px;
+  margin-left: 1%;
+   border-radius: 12%;
+   box-shadow: 10px 10px 20px  rgb(43, 186, 222);
+}
+#nav h3{
+color:aliceblue;
+font-style: oblique;
+font-size: large;
+}
+.logo{
+    color: aliceblue;
+    font-size: 38px;
+}
+.logo span{
+    color: aqua;
+}
+#nav #x1{
+    list-style-type:none ;
+    display: inline-block;
+   left: 10%;
+}
+#nav #x1 a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0px 8px 10px 6px;
+}
+#nav #x1 a:hover{
+    color:aqua;
+}
+#nav ul{
+    padding-right: 1px;
+    margin-right: 1px;
+}
+#ss{
+    color: #000;
+    height: 35px;
+    width: 18px;
+    background-color: aqua;
+    font-size: x-large;
+    border-radius: 11px;
+    text-align: center;
+    cursor: pointer;
+    bottom: 14px;
+    right: 25px;
+    position: fixed;
+    display: none;
+}
